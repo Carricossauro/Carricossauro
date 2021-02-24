@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## My name is Tiago Carriço.
+My name is Tiago Carriço.
 
 I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
