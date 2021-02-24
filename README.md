@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**Carricossauro/Carricossauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Tiago Carriço.
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## These are some of my college projects and solved exercises 🎓
+
+### 1st year - 1st semester
+* [Programação Funcional - Haskell](https://github.com/Carricossauro/Programacao-Funcional)
+
+### 1st year - 2nd semester
+* [Programação Imperativa - C](https://github.com/Carricossauro/Programacao-Imperativa)
+* [Laboratórios de Algoritmia I - C (Project)](https://github.com/Carricossauro/LA1PL1G4)
+
+### 2nd year - 2nd semester (Where I Currently Am)
+* [Laboratórios de Algoritmia II - Python](https://github.com/Carricossauro/Laboratorios-de-Algoritmia-II)
+* Programação Orientada a Objetos - Java (Project)
+* Cálculo de Programas - Haskell
+* [Sistemas Operativos - C](https://github.com/Carricossauro/Sistemas-Operativos)
+
+## Other projects
+
+You'll also find in my repositories that I've been doing some of the [Project Euler](https://projecteuler.net/) problems and I also have some small [projects](https://github.com/Carricossauro/Python-Projects) made in Python, where I also experienced with some SQL.
+
+# My programming skills 💻
+* Haskell
+* C
+* Python
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carricossauro&hide=CMake,HTML) ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs)
