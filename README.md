@@ -24,8 +24,8 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 You'll also find in my repositories that I've been doing some of the [Project Euler](https://projecteuler.net/) problems and I also have some small [projects](https://github.com/Carricossauro/Python-Projects) made in Python, where I also experienced with some SQL.
 
 # My programming skills 💻
-* Haskell
-* C
 * Python
+* C
+* Haskell
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carricossauro&hide=CMake,HTML) ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs)
