@@ -15,6 +15,7 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
 ### 2nd year - 2nd semester (Where I Currently Am)
 * [Laboratórios de Algoritmia II - Python](https://github.com/Carricossauro/Laboratorios-de-Algoritmia-II)
+* [Programação Orientada a Objetos - Java](https://github.com/Carricossauro/Programacao-Orientada-a-Objetos)
 * Programação Orientada a Objetos - Java (Project)
 * Cálculo de Programas - Haskell
 * [Sistemas Operativos - C](https://github.com/Carricossauro/Sistemas-Operativos)
