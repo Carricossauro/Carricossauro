@@ -31,6 +31,3 @@ You'll also find in my repositories that I've been doing some of the [Project Eu
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carricossauro&hide=CMake,HTML&theme=gotham)
 ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
-
-
-<img src="https://i.imgur.com/ZNrRRjD.jpg">
