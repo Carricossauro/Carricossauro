@@ -4,6 +4,8 @@ My name is Tiago Carriço.
 
 I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
+[![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/tiarrico)
+
 ## These are some of my college projects and solved exercises 🎓
 
 ### 1st year - 1st semester
@@ -23,8 +25,6 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 ## Other projects
 
 You'll also find in my repositories that I've been doing some of the [Project Euler](https://projecteuler.net/) problems ([find it here](https://github.com/Carricossauro/Project-Euler)) and I also have some small [projects](https://github.com/Carricossauro/Python-Projects) made in Python, where I also experienced with some SQL.
-
-[![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/tiarrico)
 
 # My programming skills 💻
 * Python
