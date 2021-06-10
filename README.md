@@ -4,7 +4,7 @@ My name is Tiago Carriço.
 
 I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/tiarrico)
 
