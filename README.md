@@ -29,6 +29,7 @@ You'll also find in my repositories that I've been doing some of the [Project Eu
 # My programming skills 💻
 * Python
 * C
+* Java
 * Haskell
 * Assembly
 
