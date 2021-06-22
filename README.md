@@ -23,6 +23,7 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 * [Programação Orientada a Objetos - Java (Project)](https://github.com/Carricossauro/POO-FM)
 * Cálculo de Programas - Haskell
 * [Sistemas Operativos - C](https://github.com/Carricossauro/Sistemas-Operativos)
+* [Sistemas Operativos - C (Project)](https://github.com/Carricossauro/SO-TP)
 
 ## Other projects
 
