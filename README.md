@@ -27,8 +27,8 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
 ### 3rd year - 1st semester (Where I Currently Am)
 * [Lógica Computacional](https://github.com/Carricossauro/Logica-Computacional)
-* [Processamento de Linguagens e Compiladores]
-* [Bases de Dados]
+* Processamento de Linguagens e Compiladores
+* Bases de Dados
 
 
 ## Other projects
