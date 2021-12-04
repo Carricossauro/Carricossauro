@@ -35,8 +35,6 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
 You'll also find in my repositories that I've been doing some of the [Project Euler](https://projecteuler.net/) problems ([find it here](https://github.com/Carricossauro/Project-Euler)) and I also have some small [projects](https://github.com/Carricossauro/Python-Projects) made in Python, where I also experienced with some SQL.
 
-![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
-
 # My programming skills 💻
 * Python
 * C
@@ -45,4 +43,4 @@ You'll also find in my repositories that I've been doing some of the [Project Eu
 * Assembly
 * MySQL
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carricossauro&hide=CMake,HTML&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
