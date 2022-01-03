@@ -42,5 +42,8 @@ You'll also find in my repositories that I've been doing some of the [Project Eu
 * Haskell
 * Assembly
 * MySQL
+* Javascript (React)
+* HTML
+* CSS
 
 ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
