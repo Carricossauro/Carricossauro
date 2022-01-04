@@ -33,6 +33,8 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
 ## Other projects
 
+* [Ultimate Tic Tac Toe Website](https://tic-tac-toe.carricossauro.pt/) - [source code](https://github.com/Carricossauro/Ultimate-Tic-Tac-Toe)
+
 You'll also find in my repositories that I've been doing some of the [Project Euler](https://projecteuler.net/) problems ([find it here](https://github.com/Carricossauro/Project-Euler)) and I also have some small [projects](https://github.com/Carricossauro/Python-Projects) made in Python, where I also experienced with some SQL. In 2021, I also began doing the [Advent of Code](https://adventofcode.com/), my solutions can be found [here](https://github.com/Carricossauro/Advent-Of-Code).
 
 # My programming skills 💻
