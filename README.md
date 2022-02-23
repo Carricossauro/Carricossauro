@@ -25,11 +25,14 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 * [Sistemas Operativos - C](https://github.com/Carricossauro/Sistemas-Operativos)
 * [Sistemas Operativos - C (Project)](https://github.com/Carricossauro/SO-TP)
 
-### 3rd year - 1st semester (Where I Currently Am)
+### 3rd year - 1st semester
 * [Lógica Computacional - Python](https://github.com/Carricossauro/Logica-Computacional)
 * [Processamento de Linguagens e Compiladores - Python (Projects)](https://github.com/Carricossauro/Trabalhos-Processamento-de-Linguagens-e-Compiladores)
 * Bases de Dados - MySQL (Projects)
 
+### 3rd year - 2nd semester (Where I Currently Am)
+* [Programação Concorrente - Java](https://github.com/Carricossauro/Programacao-Concorrente)
+* [Computação Gráfica - C++](https://github.com/Carricossauro/Computacao-Grafica)
 
 ## Other projects
 
@@ -47,5 +50,6 @@ You'll also find in my repositories that I've been doing some of the [Project Eu
 * Javascript (React)
 * HTML
 * CSS
+* C++
 
 ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
