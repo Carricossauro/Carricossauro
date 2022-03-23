@@ -28,11 +28,16 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 ### 3rd year - 1st semester
 * [Lógica Computacional - Python](https://github.com/Carricossauro/Logica-Computacional)
 * [Processamento de Linguagens e Compiladores - Python (Projects)](https://github.com/Carricossauro/Trabalhos-Processamento-de-Linguagens-e-Compiladores)
-* Bases de Dados - MySQL (Projects)
+* [Bases de Dados - MySQL (Projects)](https://github.com/Carricossauro/BD)
 
 ### 3rd year - 2nd semester (Where I Currently Am)
 * [Programação Concorrente - Java](https://github.com/Carricossauro/Programacao-Concorrente)
+* Programação Concorrente - Java (Project)
 * [Computação Gráfica - C++](https://github.com/Carricossauro/Computacao-Grafica)
+* Computação Gráfica - C++ (Project)
+* Interação e Concorrência (Projects)
+* Teoria de Números Computacional (Projects)
+* Final Project
 
 ## Other projects
 
