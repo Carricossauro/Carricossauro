@@ -36,7 +36,7 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 * [Computação Gráfica - C++](https://github.com/Carricossauro/Computacao-Grafica)
 * Computação Gráfica - C++ (Project)
 * Interação e Concorrência (Projects)
-* Teoria de Números Computacional (Projects)
+* Teoria de Números Computacional - Python (Projects)
 * Final Project
 
 ## Other projects
