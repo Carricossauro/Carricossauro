@@ -18,63 +18,30 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 
 -   [Programação Imperativa - C](https://github.com/Carricossauro/Programacao-Imperativa)
 -   [Laboratórios de Algoritmia I - C (Project)](https://github.com/Carricossauro/LA1PL1G4)
-    -   Partners:
-        -   [@pedrusphantom](https://github.com/pedrusphantom)
-        -   Henrique Faria
 
 ### 2nd year - 2nd semester
 
 -   [Laboratórios de Algoritmia II - Python](https://github.com/Carricossauro/Laboratorios-de-Algoritmia-II)
 -   [Programação Orientada a Objetos - Java](https://github.com/Carricossauro/Programacao-Orientada-a-Objetos)
 -   [Programação Orientada a Objetos - Java (Project)](https://github.com/Carricossauro/POO-FM)
-    -   Partners:
-        -   [@MrNameless10](https://github.com/MrNameless10)
-        -   [@IvoLims](https://github.com/IvoLims)
 -   [Cálculo de Programas - Haskell (Project)](https://github.com/Carricossauro/Calculo-de-Programas)
-    -   Partners:
-        -   [@MrNameless10](https://github.com/MrNameless10)
-        -   Luís Vilas
 -   [Sistemas Operativos - C](https://github.com/Carricossauro/Sistemas-Operativos)
 -   [Sistemas Operativos - C (Project)](https://github.com/Carricossauro/SO-TP)
-    -   Partners:
-        -   [@IvoLims](https://github.com/IvoLims)
-        -   [@inespresa](https://github.com/inespresa)
 
 ### 3rd year - 1st semester
 
 -   [Lógica Computacional - Python](https://github.com/Carricossauro/Logica-Computacional)
-    -   Partner:
-        -   [@inespresa](https://github.com/inespresa)
 -   [Processamento de Linguagens e Compiladores - Python (Projects)](https://github.com/Carricossauro/Trabalhos-Processamento-de-Linguagens-e-Compiladores)
-    -   Partners:
-        -   [@inespresa](https://github.com/inespresa)
-        -   Francisco Teófilo
 -   [Bases de Dados - MySQL (Projects)](https://github.com/Carricossauro/BD)
-    -   Partners:
-        -   [@inespresa](https://github.com/inespresa)
-        -   [@IvoLims](https://github.com/IvoLims)
-        -   [@quantik-git](https://github.com/quantik-git)
 
 ### 3rd year - 2nd semester (Where I Currently Am)
 
 -   [Programação Concorrente - Java](https://github.com/Carricossauro/Programacao-Concorrente)
 -   Programação Concorrente - Java (Project)
-    -   Partners:
-        -   [@inespresa](https://github.com/inespresa)
-        -   [@zoisper](https://github.com/zoisper)
-        -   [@StrillX](https://github.com/StrillX)
 -   [Computação Gráfica - C++](https://github.com/Carricossauro/Computacao-Grafica)
 -   Computação Gráfica - C++ (Project)
-    -   Partners:
-        -   [@inespresa](https://github.com/inespresa)
-        -   [@zoisper](https://github.com/zoisper)
-        -   [@StrillX](https://github.com/StrillX)
 -   Interação e Concorrência (Projects)
-    -   Partner:
-        -   [@inespresa](https://github.com/inespresa)
 -   Teoria de Números Computacional - Python (Projects)
-    -   Partners:
-        -   [@IvoLims](https://github.com/IvoLims)
 -   Final Project
 
 ## Other projects
