@@ -37,12 +37,12 @@ I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
 ### 3rd year - 2nd semester (Where I Currently Am)
 
 -   [Programação Concorrente - Java](https://github.com/Carricossauro/Programacao-Concorrente)
--   Programação Concorrente - Java (Project)
+-   [Programação Concorrente - Java (Project)] (https://github.com/Carricossauro/Projeto-PC)
 -   [Computação Gráfica - C++](https://github.com/Carricossauro/Computacao-Grafica)
--   Computação Gráfica - C++ (Project)
--   Interação e Concorrência (Projects)
--   Teoria de Números Computacional - Python (Projects)
--   Final Project
+-   [Computação Gráfica - C++ (Project)] (https://github.com/Carricossauro/Projeto-CG)
+-   [Interação e Concorrência (Project)] (https://github.com/Carricossauro/Interacao-e-Concorrencia)
+-   [Teoria de Números Computacional - Python (Projects)] (https://github.com/Carricossauro/TNC)
+-   [Final Project] - ReactJS and Django (https://github.com/Carricossauro/Computational-Mind)
 
 ## Other projects
 
@@ -53,14 +53,14 @@ You'll also find in my repositories that I've been doing some of the [Project Eu
 # My programming skills 💻
 
 -   Python
--   C
--   Java
 -   Haskell
+-   C
 -   Assembly
+-   Java
 -   MySQL
--   Javascript (React)
--   HTML
--   CSS
+-   HTML && CSS
+-   Javascript (ReactJS)
 -   C++
+-   Erlang
 
 ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
