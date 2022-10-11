@@ -1,14 +1,16 @@
-# Hello there
+# Hello there 👋
 
 My name is Tiago Carriço.
 
-I'm a Computer Science student at Universidade do Minho, in Braga, Portugal.
+I have a Computer Science Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2022. I am currently working at [Critical Software](https://criticalsoftware.com/) as a Software Engineer, in Porto.
+
+Feel free to use this page to check out my university and personal projects!
 
 ## Spotify Playing 🎧
 
 [![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/tiarrico)
 
-## These are some of my college projects and solved exercises 🎓
+## These are some of my university projects and solved exercises 🎓
 
 ### 1st year - 1st semester
 
@@ -54,13 +56,12 @@ You'll also find in my repositories that I've been doing some of the [Project Eu
 
 -   Python
 -   Haskell
--   C
+-   C/C++
 -   Assembly
 -   Java
 -   MySQL
--   HTML && CSS
+-   HTML/CSS
 -   Javascript (ReactJS)
--   C++
 -   Erlang
 
 ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
