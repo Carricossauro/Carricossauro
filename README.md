@@ -1,8 +1,8 @@
 # Hello there 👋
 
-My name is Tiago Carriço.
+My name is **Tiago Carriço**.
 
-I have a Computer Science Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2022. I am currently working at [Critical Software](https://criticalsoftware.com/) as a Software Engineer, in Porto.
+I have a **Computer Science** Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2022. I am currently working at [Critical Software](https://criticalsoftware.com/) as a **Software Engineer**, in Porto.
 
 Feel free to use this page to check out my university and personal projects!
 
@@ -48,11 +48,12 @@ Feel free to use this page to check out my university and personal projects!
 
 ## Other projects
 
--   [Ultimate Tic Tac Toe Website](https://tic-tac-toe.carricossauro.pt/) - [source code](https://github.com/Carricossauro/Ultimate-Tic-Tac-Toe)
+-   [cin - CLI Interpreter for C](https://github.com/Carricossauro/cin)
+-   [Ultimate Tic Tac Toe Website](https://tic-tac-toe.carricossauro.pt/) [(source code)](https://github.com/Carricossauro/Ultimate-Tic-Tac-Toe)
 
 You'll also find in my repositories that I've been doing some of the [Project Euler](https://projecteuler.net/) problems ([find it here](https://github.com/Carricossauro/Project-Euler)) and I also have some small [projects](https://github.com/Carricossauro/Python-Projects) made in Python, where I also experienced with some SQL. In 2021, I also began doing the [Advent of Code](https://adventofcode.com/), my solutions can be found [here](https://github.com/Carricossauro/Advent-Of-Code).
 
-# My programming skills 💻
+## My programming skills 💻
 
 -   Python
 -   Haskell
