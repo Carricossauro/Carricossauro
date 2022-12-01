@@ -14,37 +14,37 @@ Feel free to use this page to check out my university and personal projects!
 
 ### 1st year - 1st semester
 
--   [Programação Funcional - Haskell](https://github.com/Carricossauro/Programacao-Funcional)
+-   [Programação Funcional - Haskell](https://github.com/Carricossauro/University/tree/master/1º%20Ano/Programação%20Funcional)
 
 ### 1st year - 2nd semester
 
--   [Programação Imperativa - C](https://github.com/Carricossauro/Programacao-Imperativa)
--   [Laboratórios de Algoritmia I - C (Project)](https://github.com/Carricossauro/LA1PL1G4)
+-   [Programação Imperativa - C](https://github.com/Carricossauro/University/tree/master/1º%20Ano/Programação%20Imperativa)
+-   [Laboratórios de Algoritmia I - C (Project)](https://github.com/Carricossauro/University/tree/master/1º%20Ano/Laboratórios%20de%20Algoritmia%20I)
 
 ### 2nd year - 2nd semester
 
--   [Laboratórios de Algoritmia II - Python](https://github.com/Carricossauro/Laboratorios-de-Algoritmia-II)
--   [Programação Orientada a Objetos - Java](https://github.com/Carricossauro/Programacao-Orientada-a-Objetos)
--   [Programação Orientada a Objetos - Java (Project)](https://github.com/Carricossauro/POO-FM)
--   [Cálculo de Programas - Haskell (Project)](https://github.com/Carricossauro/Calculo-de-Programas)
--   [Sistemas Operativos - C](https://github.com/Carricossauro/Sistemas-Operativos)
--   [Sistemas Operativos - C (Project)](https://github.com/Carricossauro/SO-TP)
+-   [Laboratórios de Algoritmia II - Python](https://github.com/Carricossauro/University/tree/master/2º%20Ano/Laboratórios%20de%20Algoritmia%20II)
+-   [Programação Orientada a Objetos - Java](https://github.com/Carricossauro/University/tree/master/2º%20Ano/Programação%20Orientada%20a%20Objetos)
+-   [Programação Orientada a Objetos - Java (Project)](https://github.com/Carricossauro/University/tree/master/2º%20Ano/Projeto%20-%20Programação%20Orientada%20a%20Objetos)
+-   [Cálculo de Programas - Haskell (Project)](https://github.com/Carricossauro/University/tree/master/2º%20Ano/Cálculo%20de%20Programas)
+-   [Sistemas Operativos - C](https://github.com/Carricossauro/University/tree/master/2º%20Ano/Sistemas%20Operativos)
+-   [Sistemas Operativos - C (Project)](https://github.com/Carricossauro/University/tree/master/2º%20Ano/Projeto%20-%20Sistemas%20Operativos)
 
 ### 3rd year - 1st semester
 
--   [Lógica Computacional - Python](https://github.com/Carricossauro/Logica-Computacional)
--   [Processamento de Linguagens e Compiladores - Python (Projects)](https://github.com/Carricossauro/Trabalhos-Processamento-de-Linguagens-e-Compiladores)
--   [Bases de Dados - MySQL (Projects)](https://github.com/Carricossauro/BD)
+-   [Lógica Computacional - Python](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Lógica%20Computacional)
+-   [Processamento de Linguagens e Compiladores - Python (Projects)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Processamento%20de%20Linguagens%20e%20Compiladores)
+-   [Bases de Dados - MySQL (Projects)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Projeto%20-%20Bases%20de%20Dados)
 
 ### 3rd year - 2nd semester (Where I Currently Am)
 
--   [Programação Concorrente - Java](https://github.com/Carricossauro/Programacao-Concorrente)
--   [Programação Concorrente - Java (Project)](https://github.com/Carricossauro/Projeto-PC)
--   [Computação Gráfica - C++](https://github.com/Carricossauro/Computacao-Grafica)
--   [Computação Gráfica - C++ (Project)](https://github.com/Carricossauro/Projeto-CG)
--   [Interação e Concorrência (Project)](https://github.com/Carricossauro/Interacao-e-Concorrencia)
+-   [Programação Concorrente - Java](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Programação%20Concorrente)
+-   [Programação Concorrente - Java (Project)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Projeto%20-%20Programação%20Concorrente)
+-   [Computação Gráfica - C++](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Computação%20Gráfica)
+-   [Computação Gráfica - C++ (Project)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Projeto%20-%20Computação%20Gráfica)
+-   [Interação e Concorrência (Project)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Interação%20e%20Concorrência)
 -   [Teoria de Números Computacional - Python (Projects)](https://github.com/Carricossauro/TNC)
--   [Final Project - ReactJS and Django](https://github.com/Carricossauro/Computational-Mind)
+-   [Final Project - ReactJS and Django](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Projeto%20Final)
 
 ## Other projects
 
