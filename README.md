@@ -43,7 +43,7 @@ Feel free to use this page to check out my university and personal projects!
 -   [Computação Gráfica - C++](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Computação%20Gráfica)
 -   [Computação Gráfica - C++ (Project)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Projeto%20-%20Computação%20Gráfica)
 -   [Interação e Concorrência (Project)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Interação%20e%20Concorrência)
--   [Teoria de Números Computacional - Python (Projects)](https://github.com/Carricossauro/TNC)
+-   [Teoria de Números Computacional - Python (Projects)](https://github.com/Carricossauro/Carricossauro/University/tree/master/3º%20Ano/Teoria%20de%20Números%20Computacional)
 -   [Final Project - ReactJS and Django](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Projeto%20Final)
 
 ## Other projects
