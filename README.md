@@ -36,7 +36,7 @@ Feel free to use this page to check out my university and personal projects!
 -   [Processamento de Linguagens e Compiladores - Python (Projects)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Processamento%20de%20Linguagens%20e%20Compiladores)
 -   [Bases de Dados - MySQL (Projects)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Projeto%20-%20Bases%20de%20Dados)
 
-### 3rd year - 2nd semester (Where I Currently Am)
+### 3rd year - 2nd semester
 
 -   [Programação Concorrente - Java](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Programação%20Concorrente)
 -   [Programação Concorrente - Java (Project)](https://github.com/Carricossauro/University/tree/master/3º%20Ano/Projeto%20-%20Programação%20Concorrente)
