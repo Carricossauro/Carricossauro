@@ -53,16 +53,4 @@ Feel free to use this page to check out my university and personal projects!
 
 You'll also find in my repositories that I've been doing some of the [Project Euler](https://projecteuler.net/) problems ([find it here](https://github.com/Carricossauro/Project-Euler)) and I also have some small [projects](https://github.com/Carricossauro/Python-Projects) made in Python, where I also experienced with some SQL. In 2021, I also began doing the [Advent of Code](https://adventofcode.com/), my solutions can be found [here](https://github.com/Carricossauro/Advent-Of-Code).
 
-## My programming skills 💻
-
--   Python
--   Haskell
--   C/C++
--   Assembly
--   Java
--   MySQL
--   HTML/CSS
--   Javascript (ReactJS)
--   Erlang
-
 ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
