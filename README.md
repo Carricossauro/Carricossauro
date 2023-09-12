@@ -2,7 +2,7 @@
 
 My name is **Tiago Carriço**.
 
-I have a **Computer Science** Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2022. I am currently working at [Critical Software](https://criticalsoftware.com/) as a **Software Engineer**, in Porto.
+I have a **Computer Science** Bachelor's Degree from Universidade do Minho, in Braga, Portugal, where I graduated in 2022. After working at [Critical Software](https://criticalsoftware.com/) as a **Software Engineer** for a year, I am currently working towards my master's degree in **Artificial Intelligence** at Utrecht University.
 
 Feel free to use this page to check out my university and personal projects!
 
