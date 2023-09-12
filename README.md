@@ -10,7 +10,7 @@ Feel free to use this page to check out my university and personal projects!
 
 [![Spotify](https://carricossauro.vercel.app/api/spotify)](https://open.spotify.com/user/tiarrico)
 
-## These are some of my projects
+## These are some of my projects 💻
 
 -   [University - Solved exercises and projects](https://github.com/Carricossauro/University)
 -   [cin - CLI Interpreter for C](https://github.com/Carricossauro/cin)
