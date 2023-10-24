@@ -14,6 +14,6 @@ Feel free to use this page to check out my university and personal projects!
 
 -   [University - Solved exercises and projects](https://github.com/Carricossauro/University)
 -   [cin - CLI Interpreter for C](https://github.com/Carricossauro/cin)
--   [Ultimate Tic Tac Toe Website](https://tic-tac-toe.carricossauro.pt/) [(source code)](https://github.com/Carricossauro/Ultimate-Tic-Tac-Toe)
+-   [Ultimate Tic Tac Toe Website](https://ultimate-tic-tac-toe-hl0i1xmx6-carricossauro.vercel.app) [(source code)](https://github.com/Carricossauro/Ultimate-Tic-Tac-Toe)
 
 ![](https://github-readme-stats.vercel.app/api?username=carricossauro&hide=contribs,prs&theme=gotham&show_icons=true)
