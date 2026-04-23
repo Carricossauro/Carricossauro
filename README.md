@@ -2,7 +2,7 @@
 
 My name is **Tiago Carriço**.
 
-I have a Bachelor's Degree in **Computer Science** from Universidade do Minho, in Braga, Portugal, where I graduated in 2022. After working at [Critical Software](https://criticalsoftware.com/) as a **Junior Software Engineer**, I am currently working towards my master's degree in **Artificial Intelligence** at Utrecht University, while employed as a **working student** at [Keylane](https://keylane.com/).
+I have a Bachelor's degree in **Computer Science** from Universidade do Minho, in Braga, Portugal, where I graduated in 2022. After working at [Critical Software](https://criticalsoftware.com/) as a **Junior Software Engineer**, I completed my master's degree in **Artificial Intelligence** at Utrecht University while working at [Keylane](https://keylane.com/) as a **working student**. I am currently looking for a new opportunity in a data or AI-related role.
 
 Feel free to use this page to check out my university projects and personal endeavours!
 
